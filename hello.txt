@@ -1,5 +1,8 @@
 hi everyone!
 new line govno zhopa
+<<<<<<< HEAD
 what?
 git rebase
 
+=======
+>>>>>>> 6a504bfe9005894140b410d51fee4164aeac6c04
